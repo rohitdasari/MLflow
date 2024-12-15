@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rohitdasari/learning/ineuron/mlflow/mlruns/0/b8cf9605c87343e181f631bc54ed6add/artifacts
+end_time: 1734157875420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8cf9605c87343e181f631bc54ed6add
+run_name: calm-hog-199
+run_uuid: b8cf9605c87343e181f631bc54ed6add
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734157875402
+status: 3
+tags: []
+user_id: rohitdasari

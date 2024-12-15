@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rohitdasari/learning/ineuron/mlflow/mlruns/0/0c232a28ae914988ada53ade21f5ab78/artifacts
+end_time: 1734157722966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c232a28ae914988ada53ade21f5ab78
+run_name: puzzled-ram-251
+run_uuid: 0c232a28ae914988ada53ade21f5ab78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734157722951
+status: 3
+tags: []
+user_id: rohitdasari
